@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi! My name is Wassim 😄
 
-<!--
-**Gueddari-Wassim/Gueddari-Wassim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I am a Front-End Developer based in Tunisia.  
+💻 Open to work!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,react,nodejs,express,mongodb,figma,git)](https://skillicons.dev)
+
+
+
+---
+
+## 📫 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassim-gueddari)
