@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgres,prisma,figma,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sql,react,tailwind,nodejs,express,mongodb,postgres,mysql,prisma,figma,java,python)](https://skillicons.dev)
 
 
 
