@@ -1,7 +1,6 @@
 # Hi! My name is Wassim 😄
 
 🌍 I am a Web/Mobile Developer based in Tunisia.  
-💻 Open to work!
 
 ---
 
