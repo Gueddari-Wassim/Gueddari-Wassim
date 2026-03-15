@@ -1,12 +1,12 @@
 # Hi! My name is Wassim 😄
 
-🌍 I am a Web/Mobile Developer based in Tunisia.  
+🌍 I am a Full-Stack Developer based in Tunisia.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,nestjs,mongodb,postgres,mysql,prisma,figma,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,python,SQL,tailwind,nodejs,express,nestjs,mongodb,postgres,mysql,prisma,pytorch,figma,)](https://skillicons.dev)
 
 
 
