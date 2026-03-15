@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,python,sql,tailwind,nodejs,express,nestjs,mongodb,postgres,mysql,prisma,pytorch,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,python,tailwind,nodejs,express,nestjs,mongodb,postgres,mysql,prisma,pytorch,figma,)](https://skillicons.dev)
 
 
 
